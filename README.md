@@ -1,2 +1,2 @@
-# SuanFa
+# 算法
 Codes for practice
